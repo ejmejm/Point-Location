@@ -1,0 +1,6 @@
+Same region
+Different regions, separated by Line 5
+Different regions, separated by Line 5
+The query is out of range, please make sure to use values between 0 and 1, inclusive
+External Nodes: 22
+Average Path Length: 4

@@ -1,0 +1,4 @@
+Same region
+Same region
+External Nodes: 12
+Average Path Length: 3
