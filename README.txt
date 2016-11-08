@@ -1,10 +1,10 @@
-Author: Edan Meyer
-Contact Information:
-Email: emeyer10@u.rochester.edu
-Phone: (817) 718-8173
+By Edan Meyer
 
-Project: #3 - Point Location
-Main class: Main.java
+The program can take a set of lines within a 1 by 1 square and determine 
+whether or not there are any lines in between any two given points in an
+average of log(n) time.
+
+Note: This was a school project
 
 Growth:
 - The average path length, grows at about a rate of log(n) because each
